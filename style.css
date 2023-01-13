@@ -30,7 +30,6 @@
 .categories{
     display: flex;
     width: 40%;
-    border: solid red;
     margin-left: 14em;
 }
 .search{
